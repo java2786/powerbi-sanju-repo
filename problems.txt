@@ -1,0 +1,31 @@
+1. Bar Chart
+Purpose: Displays the count of movies released in each year.
+
+2. Pie Chart
+Purpose: Shows the proportion of movies by category (e.g., Action, Comedy)
+
+3. Line Chart
+Purpose: Shows the IMDb rating trend of movies over the years.
+
+
+4. Stacked Bar Chart
+Purpose: Displays the number of movies per category by age group.
+
+5. Area Chart
+Purpose: Visualizes the total duration of movies released per year.
+
+6. Histogram
+Purpose: Displays the distribution of IMDb ratings.
+
+
+7. Treemap
+Purpose: Displays the count of movies by category and rating
+
+8. Slicer
+Purpose: Filters data dynamically.
+
+
+9. Matrix
+Purpose: Displays a tabular view of movies by category and age.
+
+
